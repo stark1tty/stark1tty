@@ -13,6 +13,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=stark1tty&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stark1tty&theme=dark&hide_border=true)<br/>
 
+[![stark1tty's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=stark1tty)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=stark1tty&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
