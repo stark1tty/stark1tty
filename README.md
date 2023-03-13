@@ -28,6 +28,7 @@
 ## Mastodon
 * [Academics on Mastodon](https://nathanlesage.github.io/academics-on-mastodon/)
 * [Archaeologists of Mastodon](https://stark1tty.github.io/Mastodon-Archaeology/)
+* [Awesome.re Bot](https://botsin.space/@awesome__re)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=stark1tty&icon=0&color=3)](https://visitcount.itsvg.in)
