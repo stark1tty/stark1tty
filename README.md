@@ -18,6 +18,9 @@
 ### Sedimentology 
 * [SedMob for Android](https://github.com/stark1tty/SedMob)
 
+### Palynology
+* [pollen.science AI](https://github.com/stark1tty/pollen.science)
+
 ### Mastodon
 * [Academics on Mastodon](https://nathanlesage.github.io/academics-on-mastodon/)
 * [Archaeologists of Mastodon](https://stark1tty.github.io/Mastodon-Archaeology/)
