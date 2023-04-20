@@ -9,8 +9,6 @@
 - HomeServer
 - 3D Printing
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stark1tty)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## 📌Projects
