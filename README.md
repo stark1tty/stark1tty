@@ -19,7 +19,7 @@
 * [SedMob for Android](https://github.com/stark1tty/SedMob)
 
 ### Palynology
-* [pollen.science AI](https://github.com/stark1tty/pollen.science)
+* [pollen.science AI](https://github.com/stark1tty/pollen.science) (Coming soon)
 
 ### Mastodon
 * [Academics on Mastodon](https://nathanlesage.github.io/academics-on-mastodon/)
