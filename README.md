@@ -13,7 +13,7 @@
 
 ## 📌Projects
 ### Awesome Lists
-* [Awesome Historic(al) Maps](https://github.com/stark1tty/Awesome-Historic_al-Maps)
+* Awesome Historic(al) Maps: [Repo](https://github.com/stark1tty/Awesome-Historic_al-Maps) [Website](http://www.historicalmaps.world/)
 
 ### Sedimentology 
 * [SedMob for Android](https://github.com/stark1tty/SedMob)
