@@ -27,7 +27,7 @@
 * [Awesome.re Bot](https://botsin.space/@awesome__re)
 
 ### Misc
-* [useful-scripts](https://github.com/stark1tty/useful_scripts) - A small collection of scripts to share, mostly in python. 
+* [useful_scripts](https://github.com/stark1tty/useful_scripts) - A small collection of scripts to share, mostly in python. 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=stark1tty&icon=0&color=3)](https://visitcount.itsvg.in)
