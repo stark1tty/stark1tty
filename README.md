@@ -16,7 +16,7 @@
 * Awesome Historic(al) Maps: [Repo](https://github.com/stark1tty/Awesome-Historic_al-Maps) | [Website](http://www.historicalmaps.world/)
 
 ### Sedimentology 
-* [SedMob for Android](https://github.com/stark1tty/SedMob)
+* [SedMob for Android](https://github.com/stark1tty/SedMob) (W.I.P.)
 
 ### Palynology
 * [pollen.science AI] (Coming soon)
