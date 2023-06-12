@@ -14,6 +14,7 @@
 ## 📌Projects
 ### Awesome Lists
 * Awesome Historic(al) Maps: [Repo](https://github.com/stark1tty/Awesome-Historic_al-Maps) | [Website](http://www.historicalmaps.world/)
+* [Awesome Palaeoecology](https://github.com/stark1tty/awesome-palaeoecology)
 
 ### Sedimentology 
 * [SedMob for Android](https://github.com/stark1tty/SedMob) (W.I.P.)
@@ -21,10 +22,14 @@
 ### Palynology
 * [pollen.science AI] (Coming soon)
 
-### Mastodon
+### Fediverse
+
+#### Mastodon
 * [Academics on Mastodon](https://nathanlesage.github.io/academics-on-mastodon/)
 * [Archaeologists of Mastodon](https://stark1tty.github.io/Mastodon-Archaeology/)
 * [Awesome.re Bot](https://botsin.space/@awesome__re)
+
+#### Lemmy
 
 ### Misc
 * [useful_scripts](https://github.com/stark1tty/useful_scripts) - A small collection of scripts to share, mostly in python. 
