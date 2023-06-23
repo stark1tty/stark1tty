@@ -14,7 +14,6 @@
 ## 📌Projects
 ### Awesome Lists
 * Awesome Historic(al) Maps: [Repo](https://github.com/stark1tty/Awesome-Historic_al-Maps) | [Website](http://www.historicalmaps.world/)
-* [Awesome Palaeoecology](https://github.com/stark1tty/awesome-palaeoecology)
 
 ### Sedimentology 
 * [SedMob for Android](https://github.com/stark1tty/SedMob) (W.I.P.)
