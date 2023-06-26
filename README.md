@@ -18,7 +18,7 @@
 * [SedMob for Android](https://github.com/stark1tty/SedMob) (W.I.P.)
 
 ### Palynology
-* [pollen.science AI](https://huggingface.co/starkitty) (Coming soon)
+* [pollen.science AI](http://pollen.science/)
 
 ### Fediverse
 
