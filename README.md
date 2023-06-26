@@ -1,7 +1,6 @@
 # Nika Shilobod
 - PhD Researcher
 - Research interests: Geoarchaeology, Palaeoecology, Geomatics
-- Work: Plymouth University + Geoarchaeological Consultant
 - [🔗 Link Tree](https://nikashilobod.com)
 
 ## 💻Tech Stack
