@@ -31,6 +31,8 @@
 
 ### Misc
 * [useful_scripts](https://github.com/stark1tty/useful_scripts) - A small collection of scripts to share, mostly in python. 
+* [academic-rss-wordcloud](https://github.com/stark1tty/academic-rss-wordcloud) - A fun little script for visualising word frequency counts for academic journal RSS feeds; python.
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=stark1tty&icon=0&color=3)](https://visitcount.itsvg.in)
