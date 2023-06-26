@@ -28,10 +28,12 @@
 * [Awesome.re Bot](https://botsin.space/@awesome__re)
 
 #### Lemmy
+* [!plantid@mander.xyz - Plant ID Bot](https://github.com/stark1tty/plantid-mander.xyz-bot)
 
 ### Misc
 * [useful_scripts](https://github.com/stark1tty/useful_scripts) - A small collection of scripts to share, mostly in python. 
 * [academic-rss-wordcloud](https://github.com/stark1tty/academic-rss-wordcloud) - A fun little script for visualising word frequency counts for academic journal RSS feeds; python.
+* [High_h-index_GoogleScholar_Search](https://github.com/stark1tty/High_h-index_GoogleScholar_Search) - (WIP) GUI for a High h-index Google Scholar Search.
 
 ---
 
