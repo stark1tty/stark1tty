@@ -28,7 +28,7 @@
 * [Awesome.re Bot](https://botsin.space/@awesome__re)
 
 #### Lemmy
-* [!plantid@mander.xyz - Plant ID Bot](https://github.com/stark1tty/plantid-mander.xyz-bot)
+* [!plantid@mander.xyz - Plant ID Bot](https://github.com/stark1tty/LemmyPlantIDBot)
 
 ### Misc
 * [useful_scripts](https://github.com/stark1tty/useful_scripts) - A small collection of scripts to share, mostly in python. 
