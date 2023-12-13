@@ -21,11 +21,11 @@
 * [Archaeologists of Mastodon](https://stark1tty.github.io/Mastodon-Archaeology/)
 * [Awesome.re Bot](https://botsin.space/@awesome__re)
 
-#### Lemmy
+#### Lemmy Bot
 * [!plantid@mander.xyz - Plant ID Bot](https://github.com/stark1tty/LemmyPlantIDBot)
 
 ### Palynology
-* [pollen.science AI](http://pollen.science/)
+* [pollen.science AI](http://pollen.science/) (W.I.P.)
 
 ### Plants
 * [Plant-Image-Batch-ID](https://github.com/stark1tty/Plant-Image-Batch-ID) - The Plant-Image-Batch-ID is a Python-based Jupyter Notebook designed for automated plant identification from a directory of images that utilizes the PlantNet API.
@@ -34,7 +34,7 @@
 * [SedMob for Android](https://github.com/stark1tty/SedMob) (W.I.P.)
 
 ### Misc
-* [Nest-Wrecker] - Nest-Wrecker is a Python tool for simplifying tag management in markdown files. It transforms nested tags into individual tags, making them easier to manage in large Obsidian Vaults or similar note-taking systems.
+* [Nest-Wrecker](https://github.com/stark1tty/Nest-Wrecker) - Nest-Wrecker is a Python tool for simplifying tag management in markdown files. It transforms nested tags into individual tags, making them easier to manage in large Obsidian Vaults or similar note-taking systems.
 * [academic-rss-wordcloud](https://github.com/stark1tty/academic-rss-wordcloud) - A fun little script for visualising word frequency counts for academic journal RSS feeds; Python.
 * [useful_scripts](https://github.com/stark1tty/useful_scripts) - A small collection of scripts to share, mostly in python. 
 
