@@ -19,7 +19,6 @@
 #### Mastodon
 * [Academics on Mastodon](https://nathanlesage.github.io/academics-on-mastodon/)
 * [Archaeologists of Mastodon](https://stark1tty.github.io/Mastodon-Archaeology/)
-* [Awesome.re Bot](https://botsin.space/@awesome__re)
 
 #### Lemmy Bot
 * [!plantid@mander.xyz - Plant ID Bot](https://github.com/stark1tty/LemmyPlantIDBot)
@@ -36,6 +35,7 @@
 ### Misc
 * [Nest-Wrecker](https://github.com/stark1tty/Nest-Wrecker) - Nest-Wrecker is a Python tool for simplifying tag management in markdown files. It transforms nested tags into individual tags, making them easier to manage in large Obsidian Vaults or similar note-taking systems.
 * [academic-rss-wordcloud](https://github.com/stark1tty/academic-rss-wordcloud) - A fun little script for visualising word frequency counts for academic journal RSS feeds; Python.
+* [TimeSeries2Audio](https://github.com/stark1tty/TimeSeries2Audio) - A fun little R script to turn time series data into sound. 
 * [useful_scripts](https://github.com/stark1tty/useful_scripts) - A small collection of scripts to share, mostly in python. 
 
 ---
