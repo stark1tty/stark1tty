@@ -1,7 +1,7 @@
 # Nika Shilobod
 - PhD Researcher
 - Research interests: Geoarchaeology, Palaeoecology, Geomatics, ML, SciComm
-- [🔗 Link Tree](http://nikashilobod.com)
+- [🔗 Website](https://nikashilobod.com)
 
 ---
 
