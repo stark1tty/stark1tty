@@ -23,9 +23,6 @@
 #### Lemmy Bot
 * [!plantid@mander.xyz - Plant ID Bot](https://github.com/stark1tty/LemmyPlantIDBot)
 
-### Palynology
-* [pollen.science AI](http://pollen.science/) (W.I.P.)
-
 ### Plants
 * [Plant-Image-Batch-ID](https://github.com/stark1tty/Plant-Image-Batch-ID) - The Plant-Image-Batch-ID is a Python-based Jupyter Notebook designed for automated plant identification from a directory of images that utilizes the PlantNet API.
 
