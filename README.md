@@ -57,6 +57,7 @@ I recently passed my PhD viva at the University of Plymouth and am currently loo
 - **[Archaeologists of Mastodon](https://stark1tty.github.io/Mastodon-Archaeology/)** — Directory of archaeologists on the Fediverse
 - **[Academics on Mastodon](https://nathanlesage.github.io/academics-on-mastodon/)** — Contributor to the wider academic directory
 - **[PlantID Bot for Lemmy](https://github.com/stark1tty/LemmyPlantIDBot)** — `!plantid@mander.xyz` — automated plant identification bot
+- **[Peertube.science](https://peertube.science)** - Peertube instance (W.I.P.)
 
 #### 🌿 Plants & Ecology
 - **[Plant-Image-Batch-ID](https://github.com/stark1tty/Plant-Image-Batch-ID)** — Batch plant identification from image directories using the PlantNet API
